@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I'm currently working on a go api to automatically build AUR Packages to be in future a open source projecz
+- 🔭 I'm currently working on a go api to automatically build AUR Packages to be in future a open source project
 - 🌱 I'm currently learning GO
 
 
